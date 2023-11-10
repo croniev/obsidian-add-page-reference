@@ -1,0 +1,10 @@
+{
+	"id": "add-page-reference",
+	"name": "Add Page Reference",
+	"version": "1.0.0",
+	"minAppVersion": "0.12.0",
+	"description": "Add a reference the sort of (S.341)",
+	"author": "Croniev",
+	"authorUrl": "",
+	"isDesktopOnly": false
+}
